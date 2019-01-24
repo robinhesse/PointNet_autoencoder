@@ -1,6 +1,6 @@
 ## PointNet autoencoder: *Unsupervised Feature Extraction from Point Clouds*
 
-![](./data/connectomics.png =400x400)
+<img src="./data/connectomics.png" alt="drawing" width="400"/>
 
 This work is based on <a  href="https://arxiv.org/abs/1612.00593"  target="_blank">PointNet: *Deep Learning on Point Sets for 3D Classification and Segmentation*</a> by <a  href="http://charlesrqi.com"  target="_blank">Charles R. Qi</a>, <a  href="http://ai.stanford.edu/~haosu/"  target="_blank">Hao Su</a>, <a  href="http://cs.stanford.edu/~kaichun/"  target="_blank">Kaichun Mo</a> and <a  href="http://geometry.stanford.edu/member/guibas/"  target="_blank">Leonidas J. Guibas</a> from Stanford University. In my bachelors thesis <a  href="https://www.ias.informatik.tu-darmstadt.de/uploads/Main/Abschlussarbeiten/robin_hesse_bsc.pdf"  target="_blank">Development and Evaluation of 3D Autoencoders for Feature Extraction</a> I've extended their approach to work as an autoencoder. This allows to learn a feature representation from point clouds. Detailed information about the approach can be found in the thesis. 
 
